@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/536JNd9.jpg" width="100%">
+<img src="https://imgur.com/a/RKgERxF" width="100%">
 
 <p align="center">
   <a href="https://yasinu.netlify.app" target="_blank">
