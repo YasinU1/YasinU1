@@ -20,8 +20,6 @@ See [my website](https://yasinu.netlify.app/) for more information!
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasinu1&show_icons=true&locale=en" alt="yasinu1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasinu1&" alt="yasinu1" /></p>
-
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
