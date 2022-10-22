@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋  I'm Yasin Usman</h1>
+<h1 align="center">Hi, I'm Yasin Usman 👋 </h1>
 <h3 align="center">Currently an Python Software Engineer at Vodafone, I am motivated by the power of technology as a tool for positive change, with Degree from Lancaster University in Digital and Technology Solutions Hons.</h3>
 
 
@@ -14,10 +14,11 @@
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
-See [my website](https://yasinu.netlify.app/) for more information!
+See [my website](https://yasinu.netlify.app/) for more information! 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasinu1&show_icons=true&locale=en" alt="yasinu1" /></p>
+
+<p>&nbsp;<br><img align="center" src="https://github-readme-stats.vercel.app/api?username=yasinu1&show_icons=true&locale=en" alt="yasinu1" /></p>
 
 
 <h1 align="center">Projects</h1>
