@@ -14,7 +14,7 @@
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
-See <a href="https://yasinu.netlify.app/"> My Website </a> for more information! 
+See <a href="https://yasinu.netlify.app/"> My Portfolio Website </a> for more information! 
 
 
 
