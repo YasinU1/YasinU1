@@ -1,9 +1,6 @@
-<h1 align="center">Hi 👋, I'm Yasin Usman</h1>
-<h3 align="center">Currently an Python Software Engineer at Vodafone, I am motivated by the power of technology as a tool for positive change, with a Degree from Lancaster University in Digital and Technology Solutions Hons.</h3>
+<h1 align="center">Hi 👋  I'm Yasin Usman</h1>
+<h3 align="center">Currently an Python Software Engineer at Vodafone, I am motivated by the power of technology as a tool for positive change, with Degree from Lancaster University in Digital and Technology Solutions Hons.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yasinu1&label=Profile%20views&color=0e75b6&style=flat" alt="yasinu1" /> </p>
-
-<img src="https://imgur.com/cg07ktB" width="100%">
 
 <p align="center">
   <a href="https://yasinu.netlify.app" target="_blank">
