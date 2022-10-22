@@ -16,7 +16,6 @@
 </p>
 See [my website](https://yasinu.netlify.app/) for more information!
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yasinu1&show_icons=true&locale=en&layout=compact" alt="yasinu1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasinu1&show_icons=true&locale=en" alt="yasinu1" /></p>
 
