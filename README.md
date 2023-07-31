@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
  
-  <a href="https://yasinu.netlify.app/assets/Yasin%20Usman%20CV%20final.pdf" target="_blank">
+  <a href="[https://yasinu.netlify.app/assets/Yasin%20Usman%20CV%20final.pdf](https://yasinu.netlify.app/assets/Yasin%20Usman%20CV%20final.pdf)" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
