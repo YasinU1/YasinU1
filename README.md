@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Yasin Usman 👋 </h1>
-<h3 align="center">Currently an Python Software Engineer at Vodafone, I am motivated by the power of technology as a tool for positive change, with a Degree from Lancaster University in Digital and Technology Solutions Hons.</h3>
+<h3 align="center">Currently an Python Software Engineer at Vodafone, I am motivated by the power of technology as a tool for positive change, with a 1st Class Degree from Lancaster University in DTS - Software Engineering Hons. Currently Pursuing a MSc in Software Engineering at University of Oxford</h3>
 
 
 <p align="center">
